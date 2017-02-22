@@ -1,0 +1,196 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From AndroidAsync:
+* Android.mk
+* AndroidAsync-AndroidAsync.iml
+* AndroidAsync.iml
+* build.gradle
+* build.xml
+* ic_launcher-web.png
+* proguard-project.txt
+* test\
+* test\assets\
+* test\assets\6691924d7d24237d3b3679310157d640
+* test\assets\hello.txt
+* test\assets\test.json
+* test\res\
+* test\res\drawable-hdpi\
+* test\res\drawable-hdpi\ic_launcher.png
+* test\res\drawable-ldpi\
+* test\res\drawable-ldpi\ic_launcher.png
+* test\res\drawable-mdpi\
+* test\res\drawable-mdpi\ic_launcher.png
+* test\res\drawable-xhdpi\
+* test\res\drawable-xhdpi\ic_launcher.png
+* test\res\raw\
+* test\res\raw\keystore.bks
+* test\res\values\
+* test\res\values\strings.xml
+* test\src\
+* test\src\com\
+* test\src\com\koushikdutta\
+* test\src\com\koushikdutta\async\
+* test\src\com\koushikdutta\async\test\
+* test\src\com\koushikdutta\async\test\BodyTests.java
+* test\src\com\koushikdutta\async\test\ByteUtilTests.java
+* test\src\com\koushikdutta\async\test\CacheTests.java
+* test\src\com\koushikdutta\async\test\ConscryptTests.java
+* test\src\com\koushikdutta\async\test\DnsTests.java
+* test\src\com\koushikdutta\async\test\FileCacheTests.java
+* test\src\com\koushikdutta\async\test\FileTests.java
+* test\src\com\koushikdutta\async\test\FutureTests.java
+* test\src\com\koushikdutta\async\test\HttpClientTests.java
+* test\src\com\koushikdutta\async\test\HttpServerTests.java
+* test\src\com\koushikdutta\async\test\Issue59.java
+* test\src\com\koushikdutta\async\test\Md5.java
+* test\src\com\koushikdutta\async\test\MultipartTests.java
+* test\src\com\koushikdutta\async\test\ParserTests.java
+* test\src\com\koushikdutta\async\test\ProxyTests.java
+* test\src\com\koushikdutta\async\test\RedirectTests.java
+* test\src\com\koushikdutta\async\test\SSLTests.java
+* test\src\com\koushikdutta\async\test\SanityChecks.java
+* test\src\com\koushikdutta\async\test\SocketIOTests.java
+* test\src\com\koushikdutta\async\test\TimeoutTests.java
+* test\src\com\koushikdutta\async\test\TriggerFuture.java
+* test\src\com\koushikdutta\async\test\WebSocketTests.java
+From Ptyxiakh:
+* ic_launcher-web.png
+* proguard-project.txt
+From ion:
+* .gitignore
+* Android.mk
+* ant.properties
+* build.gradle
+* build.xml
+* ion-ion.iml
+* ion.iml
+* proguard-project.txt
+* settings.gradle
+* stylesheet.css
+* test\
+* test\assets\
+* test\assets\exif.jpg
+* test\res\
+* test\res\.gitignore
+* test\res\raw\
+* test\res\raw\keystore.bks
+* test\src\
+* test\src\com\
+* test\src\com\koushikdutta\
+* test\src\com\koushikdutta\ion\
+* test\src\com\koushikdutta\ion\test\
+* test\src\com\koushikdutta\ion\test\AssetTests.java
+* test\src\com\koushikdutta\ion\test\AuthTests.java
+* test\src\com\koushikdutta\ion\test\BitmapTests.java
+* test\src\com\koushikdutta\ion\test\CompileTests.java
+* test\src\com\koushikdutta\ion\test\ConscryptTests.java
+* test\src\com\koushikdutta\ion\test\CookieTests.java
+* test\src\com\koushikdutta\ion\test\CustomParserTests.java
+* test\src\com\koushikdutta\ion\test\ExceptionTests.java
+* test\src\com\koushikdutta\ion\test\ExifTests.java
+* test\src\com\koushikdutta\ion\test\FileTests.java
+* test\src\com\koushikdutta\ion\test\GifTests.java
+* test\src\com\koushikdutta\ion\test\GsonTests.java
+* test\src\com\koushikdutta\ion\test\HeadersTests.java
+* test\src\com\koushikdutta\ion\test\HttpTests.java
+* test\src\com\koushikdutta\ion\test\Issues.java
+* test\src\com\koushikdutta\ion\test\Md5.java
+* test\src\com\koushikdutta\ion\test\ProgressTests.java
+* test\src\com\koushikdutta\ion\test\RedirectTests.java
+* test\src\com\koushikdutta\ion\test\SelfSignedCertificateTests.java
+* test\src\com\koushikdutta\ion\test\SpdyTests.java
+* test\src\com\koushikdutta\ion\test\StoreTests.java
+* test\src\com\koushikdutta\ion\test\StreamTests.java
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:21.0.3
+gson-2.2.4.jar => com.google.code.gson:gson:2.2.4
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.2.4.jar => version 2.2.4 in com.google.code.gson:gson:2.2.4
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+appcompat-v7 => [com.android.support:appcompat-v7:21.0.3]
+google-play-services_lib => [com.google.android.gms:play-services:+]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In AndroidAsync:
+* AndroidManifest.xml => androidAsync\src\main\AndroidManifest.xml
+* assets\ => androidAsync\src\main\assets\
+* lint.xml => androidAsync\lint.xml
+* res\ => androidAsync\src\main\res\
+* src\ => androidAsync\src\main\java\
+In ion:
+* AndroidManifest.xml => ion\src\main\AndroidManifest.xml
+* assets\ => ion\src\main\assets\
+* res\ => ion\src\main\res\
+* src\ => ion\src\main\java\
+In Ptyxiakh:
+* AndroidManifest.xml => ptyxiakh\src\main\AndroidManifest.xml
+* assets\ => ptyxiakh\src\main\assets\
+* lint.xml => ptyxiakh\lint.xml
+* res\ => ptyxiakh\src\main\res\
+* src\ => ptyxiakh\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

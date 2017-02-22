@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\.gradle\caches\modules-2\files-2.1\com.koushikdutta.async\androidasync\2.1.3\52aed89a155265a48984ecc06aa8dec12674edad\androidasync-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="52aed89a155265a48984ecc06aa8dec12674edad">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\androidasync-2.1.3_293a60c28155b35a0781e9ae797ceed26c313b7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.3.1\3ca9d0d53a27ecb88538ed874be417cfa827db5d\engine.io-client-0.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\engine.io-client-0.3.1_33f8885370a4f4dab29294ac89a947eb3a494bf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.1.1_2ef664910a9b1d11909711714c2671029fd040ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f42f4594a526ab786e54c842f1ca885c82b69c01">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d3d81e254fc9fd5cc34924167e192f6f678e4b46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.1.1_d7d65a1afba58fc3a0c9053cacf660a6ef3346c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\.gradle\caches\modules-2\files-2.1\com.koushikdutta.ion\ion\2.1.3\659c4d0a26ab5d857db1440199cef6dd42b4428\ion-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0659c4d0a26ab5d857db1440199cef6dd42b4428">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\ion-2.1.3_72642045f092dac5c80e86732a362708a4980e37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\Java-WebSocket-1.3.0_b8830a17ee3d0aea76458b4e53bc9f3ded20c0a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.1.1_a8a2a501f733519c7cd75cab653f72398f3f236b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.1.1_f051e4ae2fb6cea4f23cd9f2baf0fec7477a7e5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="08942ee98cbb7a634d4332ec23e12fb28b5bffee">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_946fecc15a697b99ba8bb4f78904a40f115a46c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.3.0_f6ca0cdce39e63f58f52ee6696ba4bdc300f7383\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.0.0_6b1ecd13baf34c72058d6ba1052135c925164a4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.3.0\8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9\socket.io-client-0.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\socket.io-client-0.3.0_e951fbd96b2278deceeda7e3a7a449d2ef88c127\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.3.0_efa408cfa32bc78e78107b88cda60a85a9833559\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3_83a234f2c6f26f6dd57f44d0d77cfcc01f2cecf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\Tasos\Desktop\ptyxiakh\ptyxiakh\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.3.0_1d05ab5b85a36f5bf1b86c3bc08586c54c82d98b\classes.dex" />
+    </item>
+
+</items>

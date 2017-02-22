@@ -1,0 +1,7 @@
+#Fri Feb 17 12:31:01 EET 2017
+base.0=C\:\\Users\\Tasos\\Desktop\\ptyxiakh\\ptyxiakh\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_946fecc15a697b99ba8bb4f78904a40f115a46c5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Tasos\\Desktop\\ptyxiakh\\ptyxiakh\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d3d81e254fc9fd5cc34924167e192f6f678e4b46\\classes.dex
+base.1=C\:\\Users\\Tasos\\Desktop\\ptyxiakh\\ptyxiakh\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d3d81e254fc9fd5cc34924167e192f6f678e4b46
+file.0=C\:\\Users\\Tasos\\Desktop\\ptyxiakh\\ptyxiakh\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_946fecc15a697b99ba8bb4f78904a40f115a46c5\\classes.dex

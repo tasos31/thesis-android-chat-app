@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/team_title"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.1"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:id="@+id/imageView"
+        android:src = "@drawable/search_icon"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/team_name"
+
+        android:layout_toEndOf="@+id/team_name"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp" />
+
+    <EditText
+        android:id="@+id/search_edit_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/imageView"
+        android:hint="Search Messages"
+        android:textColor="@color/DarkGray" />
+    <ListView
+        android:id="@+id/team_messages_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.7" >
+    </ListView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2" >
+
+        <EditText
+            android:id="@+id/team_messages_edit_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="40dp"
+            android:hint="Write message here"
+            android:textColor="@color/DarkGray" />
+
+        <Button
+            android:id="@+id/team_send_message_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/team_messages_edit_text"
+            android:text="Send" />
+    </RelativeLayout>
+
+</LinearLayout>

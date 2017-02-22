@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ΑΤΕΙΘ Live Chat</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="toastMessage">Press back again to exit</string>
+    <string name="FullNameText">Full name:</string>
+    <string name="UsernameText">Username:</string>
+    <string name="PasswordText">Password:</string>
+    <string name="EmailText">Email</string>
+    <string name="register_question_text">Not a member? </string>
+    <string name="sign_up_text">Sign Up!</string>
+    <string name="GotoRegisterButtonText">Register</string>
+    <string name="nameHint">Name</string>
+    <string name="surnameHint">Surname</string>
+    <string name="UsernameHint"> Username </string>
+    <string name="PasswordHint"> Password </string>
+    <string name="sign_in"> Sign in </string>
+    <string name="sign_up"> Create account </string>
+    <string name="directions"> Account creation </string>
+    <string name="ConfirmPasswordHint">Confirm password</string>
+    <string name="EmailHint">Enter email here</string>
+    <string name="ConfirmEmailHint">Confirm email</string>
+    <string name="BackButtonDescription">This is the back button</string>
+    <string name="ForwardButtonDescription">This is the forward button</string>
+    <string name="ExitButtonDescription">This is the exit button</string>
+    <string name="loginFailMessage">Login Failed</string>
+    <string name="friendsButtonText">Chat</string>
+    <string name="teamsButtonText">Team chat</string>
+    <string name="aboutButtonText">About</string>
+    <string name="about_text">This app was created by Anesiadis Anastasios as a university Thesis.</string>
+    <string name="about_title">About this app</string>
+    <string name="dialogChatButtonText">Send message</string>
+    <string name="dialogNavigateButtonText">Navigation</string>
+    <string name="myTeamsText">My teams:</string>
+    <string name="createTeamButtonText">Create Team</string>
+    <string name="teamNameHint">Enter team name here</string>
+    <string name="chooseUsersPrompt">Choose team members from the list: </string>
+    <string name="create_team_dialog_prompt">Are you sure you want to create this team? </string>
+    <string name="create_team_dialog_title">Team creation </string>
+    <string name="register_user">User registration </string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="register_prompt">Press OK to register</string>
+    <string name="chat_server_conn_error">Error connecting to the chat server!</string>
+
+</resources>
